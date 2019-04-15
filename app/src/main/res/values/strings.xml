@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">玩Android</string>
+
+    <!--底部导航栏-->
+    <string name="nav_bottom_item_home">主页</string>
+    <string name="nav_bottom_item_knowledge_system">知识体系</string>
+    <string name="nav_bottom_item_navigation">导航</string>
+    <string name="nav_bottom_item_public_num">公众号</string>
+    <string name="nav_bottom_item_project">项目</string>
+
+    <!--toolbar-->
+    <string name="toolbar_item_search">搜索</string>
+
+    <!--抽屉导航栏-->
+    <string name="nav_main_item_settings">设置</string>
+</resources>
